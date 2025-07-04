@@ -1,0 +1,16 @@
+<!-- src/app/property/property.component.html -->
+<div class="container">
+  <h2>Properties</h2>
+  <form (ngSubmit)="addProperty()">
+    <input [(ngModel)]="newProperty.name" name="name" placeholder="Property Name" required>
+    <button type="submit">Add</button>
+  </form>
+
+  <ul>
+    <li *ngFor="let prop of properties">
+      {{ prop.name }}
+      <button (click)="deleteProperty(prop.id)">Delete</button>
+    </li>
+  </ul>
+</div>
+

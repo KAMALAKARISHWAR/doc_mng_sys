@@ -1,0 +1,47 @@
+<!-- <div class="container mt-4">
+  <div class="row g-4">
+    <div class="col-md-3">
+      <app-user-registration></app-user-registration>
+    </div>
+    <div class="col-md-3">
+      <app-document-upload></app-document-upload>
+    </div>
+    <div class="col-md-3">
+      <app-drag-drop-upload></app-drag-drop-upload>
+    </div>
+    <div class="col-md-3">
+      <app-document-viewer></app-document-viewer>
+    </div>
+  </div>
+</div> -->
+<div class="d-flex vh-100">
+  <!-- Vertical Menu -->
+  <div class="bg-light border-end p-3" style="width: 250px;">
+    <h5 class="mb-4">Dashboard Menu</h5>
+    <ul class="nav flex-column">
+      <li class="nav-item mb-2">
+        <button class="btn btn-outline-primary w-100" (click)="selectSection('user')">User Registration</button>
+      </li>
+      <li class="nav-item mb-2">
+        <button class="btn btn-outline-primary w-100" (click)="selectSection('upload')">Document Upload</button>
+      </li>
+      <li class="nav-item mb-2">
+        <button class="btn btn-outline-primary w-100" (click)="selectSection('dragdrop')">Drag & Drop Upload</button>
+      </li>
+      <li class="nav-item mb-3">
+        <button class="btn btn-outline-primary w-100" (click)="selectSection('viewer')">Document Viewer</button>
+      </li>
+      <li class="nav-item">
+        <button class="btn btn-danger w-100" (click)="logout()">Logout</button>
+      </li>
+    </ul>
+  </div>
+
+  <!-- Main Content Area -->
+  <div class="p-4 flex-grow-1">
+    <app-user-registration *ngIf="selectedSection === 'user'"></app-user-registration>
+    <app-document-upload *ngIf="selectedSection === 'upload'"></app-document-upload>
+    <app-drag-drop-upload *ngIf="selectedSection === 'dragdrop'"></app-drag-drop-upload>
+    <app-document-viewer *ngIf="selectedSection === 'viewer'"></app-document-viewer>
+  </div>
+</div>

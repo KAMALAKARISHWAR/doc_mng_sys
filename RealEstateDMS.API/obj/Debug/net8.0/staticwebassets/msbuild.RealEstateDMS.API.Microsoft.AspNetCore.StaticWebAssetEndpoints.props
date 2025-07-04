@@ -1,0 +1,64 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/UploadedDocs/7bf1fe80-ce2d-4d40-9f19-057204079cf2.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UploadedDocs\7bf1fe80-ce2d-4d40-9f19-057204079cf2.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"153185"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 12:42:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/UploadedDocs/7bf1fe80-ce2d-4d40-9f19-057204079cf2.ywwpy1wj6l.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UploadedDocs\7bf1fe80-ce2d-4d40-9f19-057204079cf2.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ywwpy1wj6l"},{"Name":"integrity","Value":"sha256-HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8="},{"Name":"label","Value":"_content/RealEstateDMS.API/UploadedDocs/7bf1fe80-ce2d-4d40-9f19-057204079cf2.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"153185"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 12:42:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/UploadedDocs/Agreement/80f292ea-d7ad-40be-aa97-fad5d2ee48cb.mvf51koxh0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UploadedDocs\Agreement\80f292ea-d7ad-40be-aa97-fad5d2ee48cb.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mvf51koxh0"},{"Name":"integrity","Value":"sha256-Xu9cnQqcinDKlncLz8ZoWI6NSdIuEJK9Yffx1SvGTc8="},{"Name":"label","Value":"_content/RealEstateDMS.API/UploadedDocs/Agreement/80f292ea-d7ad-40be-aa97-fad5d2ee48cb.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"176729"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Xu9cnQqcinDKlncLz8ZoWI6NSdIuEJK9Yffx1SvGTc8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 12:56:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/UploadedDocs/Agreement/80f292ea-d7ad-40be-aa97-fad5d2ee48cb.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UploadedDocs\Agreement\80f292ea-d7ad-40be-aa97-fad5d2ee48cb.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xu9cnQqcinDKlncLz8ZoWI6NSdIuEJK9Yffx1SvGTc8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"176729"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Xu9cnQqcinDKlncLz8ZoWI6NSdIuEJK9Yffx1SvGTc8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 12:56:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/UploadedDocs/po/ff00948d-f364-41c3-aec7-3309a3a59147.73l0bvvfgb.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UploadedDocs\po\ff00948d-f364-41c3-aec7-3309a3a59147.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"73l0bvvfgb"},{"Name":"integrity","Value":"sha256-w\u002BH4GdId6Sl8Sd0DMryH/9QwE8QpXyY1a\u002BY7NYAv\u002BIQ="},{"Name":"label","Value":"_content/RealEstateDMS.API/UploadedDocs/po/ff00948d-f364-41c3-aec7-3309a3a59147.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45262"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022w\u002BH4GdId6Sl8Sd0DMryH/9QwE8QpXyY1a\u002BY7NYAv\u002BIQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 11:24:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/UploadedDocs/po/ff00948d-f364-41c3-aec7-3309a3a59147.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UploadedDocs\po\ff00948d-f364-41c3-aec7-3309a3a59147.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w\u002BH4GdId6Sl8Sd0DMryH/9QwE8QpXyY1a\u002BY7NYAv\u002BIQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"45262"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022w\u002BH4GdId6Sl8Sd0DMryH/9QwE8QpXyY1a\u002BY7NYAv\u002BIQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 11:24:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/uploads/faafcdb8-db64-48dd-99af-9360aa47f76f.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\faafcdb8-db64-48dd-99af-9360aa47f76f.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"153185"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 12:35:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/uploads/faafcdb8-db64-48dd-99af-9360aa47f76f.ywwpy1wj6l.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\faafcdb8-db64-48dd-99af-9360aa47f76f.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ywwpy1wj6l"},{"Name":"integrity","Value":"sha256-HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8="},{"Name":"label","Value":"_content/RealEstateDMS.API/uploads/faafcdb8-db64-48dd-99af-9360aa47f76f.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"153185"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 12:35:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/uploads/fd2f9fe8-50cc-46fd-9073-7ebe529d02de.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fd2f9fe8-50cc-46fd-9073-7ebe529d02de.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"153185"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 12:30:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealEstateDMS.API/uploads/fd2f9fe8-50cc-46fd-9073-7ebe529d02de.ywwpy1wj6l.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fd2f9fe8-50cc-46fd-9073-7ebe529d02de.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ywwpy1wj6l"},{"Name":"integrity","Value":"sha256-HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8="},{"Name":"label","Value":"_content/RealEstateDMS.API/uploads/fd2f9fe8-50cc-46fd-9073-7ebe529d02de.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"153185"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022HsdQ2YyMjgnAQKRWs70gUp6Lw37FJkO483jT9IepLD8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 12:30:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

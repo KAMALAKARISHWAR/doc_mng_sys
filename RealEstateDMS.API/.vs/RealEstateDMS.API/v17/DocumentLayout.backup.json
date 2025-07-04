@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RealEstateDMS.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\controllers\\documentuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:controllers\\documentuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\dataaccess\\implementation\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:dataaccess\\implementation\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\models\\domain\\documentsupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:models\\domain\\documentsupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\models\\domain\\documentuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:models\\domain\\documentuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\models\\dto\\uploaddocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:models\\dto\\uploaddocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\dataaccess\\implementation\\documentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:dataaccess\\implementation\\documentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\dataaccess\\interface\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:dataaccess\\interface\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\models\\domain\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:models\\domain\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|d:\\realestatedms.api\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47297E64-8606-4B64-B460-D8B262F83CF8}|RealEstateDMS.API.csproj|solutionrelative:controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:03:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentsUpload.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Models\\Domain\\DocumentsUpload.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\DocumentsUpload.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Models\\Domain\\DocumentsUpload.cs",
+              "RelativeToolTip": "Models\\Domain\\DocumentsUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:16:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentUploadController.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Controllers\\DocumentUploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentUploadController.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Controllers\\DocumentUploadController.cs",
+              "RelativeToolTip": "Controllers\\DocumentUploadController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:20:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:13:42.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\DataAccess\\Implementation\\DocumentService.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Implementation\\DocumentService.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\DataAccess\\Implementation\\DocumentService.cs",
+              "RelativeToolTip": "DataAccess\\Implementation\\DocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:27:37.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentDataAccess.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\DataAccess\\Implementation\\DocumentDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Implementation\\DocumentDataAccess.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\DataAccess\\Implementation\\DocumentDataAccess.cs",
+              "RelativeToolTip": "DataAccess\\Implementation\\DocumentDataAccess.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:14:24.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentUploadModel.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Models\\Domain\\DocumentUploadModel.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\DocumentUploadModel.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Models\\Domain\\DocumentUploadModel.cs",
+              "RelativeToolTip": "Models\\Domain\\DocumentUploadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:24:09.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UploadDocumentDto.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Models\\DTO\\UploadDocumentDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\UploadDocumentDto.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Models\\DTO\\UploadDocumentDto.cs",
+              "RelativeToolTip": "Models\\DTO\\UploadDocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:16:54.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T06:31:07.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\DataAccess\\Interface\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interface\\IDocumentService.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\DataAccess\\Interface\\IDocumentService.cs",
+              "RelativeToolTip": "DataAccess\\Interface\\IDocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:25:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:37:39.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\RealEstateDMS.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T06:31:24.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Models\\Domain\\Document.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Document.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Models\\Domain\\Document.cs",
+              "RelativeToolTip": "Models\\Domain\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:16:20.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "D:\\RealEstateDMS.API\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentController.cs",
+              "ToolTip": "D:\\RealEstateDMS.API\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:13:10.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
